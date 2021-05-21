@@ -1,6 +1,9 @@
 package HelloGitGithub02;
 
 public class NextClass {
-  system.out.println("Hello from REMOTE REPO");
-
+	public static void main(String[] args) {
+		
+	System.out.println("Hello to TESTERS");
+	
+	}
 }
